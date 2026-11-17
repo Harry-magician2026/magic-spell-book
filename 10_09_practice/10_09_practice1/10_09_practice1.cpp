@@ -42,4 +42,5 @@ int main() {
 		cout << "治疗后的血量为：" << result <<endl;
 		cout << endl;
 	}
+	return 0;
 }
